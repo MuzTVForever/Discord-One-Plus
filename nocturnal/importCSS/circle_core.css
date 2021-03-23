@@ -445,9 +445,9 @@
 :root {
 	--backgroundDark: rgb(24, 28, 37);
 	--backgroundDarker: rgb(20, 23, 31);
-	--primary: #008ae6;
-	--primaryGradient1: #008ae6;
-	--primaryGradient2: #00e68a;
+	--primary: #a625d9;
+	--primaryGradient1: #a625d9;
+	--primaryGradient2: #8318ad;
 	--DangerColor: #dc3545;
 	--WarningColor: #ffc107;
 	--SuccesColor: #28a745
